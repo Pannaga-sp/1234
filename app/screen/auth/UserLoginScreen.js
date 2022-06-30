@@ -182,14 +182,14 @@ const styles = StyleSheet.create({
   container: {
   fontFamily: 'Segoe UI',
   fontSize: 55,
-  padding: 20,
+  padding: 8,
+  width: 280,
   backgroundColor: '#fff',
-  margin: 30,
-  marginLeft: 77,
-  marginRight: 77,
-  marginTop: 211,
+  margin: 15,
+  marginLeft: -50,
+  marginRight: -50,
+  marginTop: 130,
   boxShadow: '5px 5px 3px #febe09',
-  borderRadius: '10px',
   textAlign: 'center'
   },
 
